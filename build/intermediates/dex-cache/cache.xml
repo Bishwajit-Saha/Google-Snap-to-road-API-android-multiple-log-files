@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_f208223464729e40cc2219818ec66e919a052169.jar" />
+    </item>
+    <item
+        jar="C:\Users\bishwajit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\gson-2.3.1_9d1bff338c8491cbf9801f5439a911039a81f8ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\bishwajit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\okhttp-2.0.0_eef99fe3050829c285c65ae65d18f06ddd3e3270.jar" />
+    </item>
+    <item
+        jar="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.3.4_1419ff33c8757572b851ae9e6a546906e0d45a2a.jar" />
+    </item>
+    <item
+        jar="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_ce883362f94593afdbc69dd36843aef46e9d14f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\bishwajit\.gradle\caches\modules-2\files-2.1\com.google.maps\google-maps-services\0.1.6\bfbcfdd207c971f31b274c463620af90b6dcff0d\google-maps-services-0.1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bfbcfdd207c971f31b274c463620af90b6dcff0d">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\google-maps-services-0.1.6_0bf3c7a6f542fac6ce5551a2f1c4f7fb101f0ff5.jar" />
+    </item>
+    <item
+        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_882f402a8cad2c01b8a6e584eb6f2444f9c9e6a7.jar" />
+    </item>
+    <item
+        jar="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_aae5ae0790ec60d37b60609da3bcfcf7d5515fc4.jar" />
+    </item>
+    <item
+        jar="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-6.5.87_06caa9bbbafb7d1ecd3c457a805f3b81756b7bb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\bishwajit\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\okio-1.0.0_2bf881e252c9e4e32c841b2eac1a23ebc25ae3aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\bishwajit\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.4\89e9725439adffbbd41c5f5c215c136082b34a7f\joda-time-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="89e9725439adffbbd41c5f5c215c136082b34a7f">
+        <dex dex="G:\jugnoo\final roads api\final roads api\roads-api-samples-master multiple files\app\build\intermediates\pre-dexed\debug\joda-time-2.4_d41af146fc4b33f8933a0b02fdb4bdb15b1a6d05.jar" />
+    </item>
+
+</items>
